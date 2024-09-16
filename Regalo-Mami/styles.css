@@ -1,0 +1,27 @@
+h1 {
+    font-family: Protest Guerrilla;
+    color: red;
+    font-size: 50px;
+}
+
+body {
+    background-color: black;
+}
+
+p {
+    font-family: "Playwrite CU", cursive;
+    color: white;
+    font-size: 15px;
+}
+
+ol {
+    font-family: "Playwrite CU", cursive;
+    color: white;
+    font-size: 15px;
+}
+
+h2 {
+    font-family: Protest Guerrilla;
+    color: pink;
+    font-size: 50px;
+}
